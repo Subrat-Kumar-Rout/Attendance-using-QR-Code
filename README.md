@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-1. Fork the repository
+1.Fork the repository
 2. Clone the repository
 
 
