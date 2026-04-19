@@ -12,7 +12,7 @@
 
 
 
-3. Open the folder containing the cloned repository
+Open the folder containing the cloned repository
 
 4.Download dependencies
 Go inside ./N_Attendance_M/
